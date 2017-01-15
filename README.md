@@ -30,7 +30,7 @@ This script can be used for downloading mp4 videos from the purchased chess24 vi
   * videosToDownload.append(videoUrl1,id1,series_id1)
   * videosToDownload.append(videoUrl2,id2,series_id2)
   * ...
-* Make sure that write prviliges are set for the folder the script is run from
+* Make sure that write prvileges are set for the folder the script is run from
 
 #Time for conversion
 * Can be quite long depending on the chosen resolution. For the preconfigured setting conversion takes about an hour for a 20-30 minutes video.
