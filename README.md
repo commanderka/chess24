@@ -33,7 +33,7 @@ This script can be used for downloading mp4 videos from the purchased chess24 vi
 * Make sure that write prviliges are set for the folder the script is run from
 
 #Time for conversion
-* Can be quite long depending on the chosen resolution. For the preconfigured setting conversion takes about an our for a 20-30 minutes video.
+* Can be quite long depending on the chosen resolution. For the preconfigured setting conversion takes about an hour for a 20-30 minutes video.
 
 #Feedback and comments
 Feedback and comments are highly appreciated and should be posted in the chess 24 user forum
