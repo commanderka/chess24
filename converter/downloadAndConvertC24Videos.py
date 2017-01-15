@@ -37,7 +37,7 @@ if __name__ == '__main__':
     #this information can be found in the source code of the video series webpage at chess24
     #substitute by the videos you have purchased
     videosToDownload = []
-    videosToDownload.append(("https://cdn.chess24.com/2bIU7tBARJmblgmTy_4JFA/mp4/full/GI Sidelines P1 Eng.mp4",86,10))
+    videosToDownload.append(("https://cdn.chess24.com/someUrl.mp4",86,10))
     #login to c24
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11'}
     session = requests.Session()
