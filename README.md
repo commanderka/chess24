@@ -25,7 +25,7 @@ This script can be used for downloading mp4 videos from the purchased chess24 vi
 			'74328d92' 
    ````
    Just extract the values for video url (remove the backslashes), id and series id. The above would give:
-   (https://cdn.chess24.com/GyYye-HfQMqILEPJ6lTXHg/mp4/full/*****.mp4,131,10)
+   (https://cdn.chess24.com/*****/mp4/full/*****.mp4,131,10)
 * Populate the videos to download list with your own video tuples by doing the following:
   * videosToDownload.append(videoUrl1,id1,series_id1)
   * videosToDownload.append(videoUrl2,id2,series_id2)
