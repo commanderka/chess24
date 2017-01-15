@@ -106,5 +106,4 @@ if __name__ == '__main__':
         videoClip_combined.duration = clip_resized.duration
         outputFileName = os.path.splitext(videoFilename)[0]+"_processed.mp4"
         videoClip_combined.write_videofile(outputFileName)
-    #videoClip_combined = CompositeVideoClip([subclip, testImageClip.set_start(23.594).set_pos((20,20)),testImageClip2.set_start(30).set_pos((20,20))])
    
